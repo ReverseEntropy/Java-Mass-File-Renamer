@@ -1,0 +1,2 @@
+startfolder: C:\Users\yusef\Pictures
+outputfolder: C:\Users\yusef\Documents\Aiseesoft Studio
